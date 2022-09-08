@@ -1,3 +1,12 @@
+/*
+Author: Michelle Wen
+Course: CSCI-135
+Instructor: Mike Zamansky
+Assignment: Lab 2 Task D
+
+Add the previous two numbers. Starting with 0 and 1.
+*/
+
 #include <iostream>
 int main()
 {
