@@ -12,13 +12,7 @@ int main()
 {
 	print_interval(-5, 10);
 	print_interval(1, 8);
-
-	int small,large;
-	std::cout << "Please enter L: ";
-	std::cin >> small;
-	std::cout << "Please enter U: ";
-	std::cin >> large;
-	print_interval(small, large);
+	print_interval(10, 21);	
 
 	return 0;
 }
