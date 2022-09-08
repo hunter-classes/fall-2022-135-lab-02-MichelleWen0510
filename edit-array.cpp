@@ -37,6 +37,5 @@ int main()
 	} while (ind>=0 && ind<(sizeof(myData)/sizeof(int)));	
 
 	std::cout << "Index out of range. Exit." << std::endl;
-
 	return 0;
 }
