@@ -33,8 +33,7 @@ int main()
         	{
                 	std::cout << std::to_string(myData[i])+" ";
         	}
-        	std::cout<< "" << std::endl;
-			
+        	std::cout<< "" << std::endl;			
 	} while (ind>=0 && ind<(sizeof(myData)/sizeof(int)));	
 
 	std::cout << "Index out of range. Exit." << std::endl;

@@ -4,7 +4,7 @@ Course: CSCI-135
 Instructor: Mike Zamansky
 Assignment: Lab 2 Task B
 
-Create a void function to list out numbers.
+Create a void function that list out numbers.
 */
 
 #include "funcs.h"
