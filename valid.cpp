@@ -1,3 +1,12 @@
+/*
+Author: Michelle Wen
+Course: CSCI-135
+Instructor: Mike Zamansky
+Assignment: Lab 2 Task A
+
+Square any number between 0 and 100.
+*/
+
 #include <iostream>
 int main()
 {
